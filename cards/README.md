@@ -1,5 +1,5 @@
 In this go project we are doing the following things:
-1) firt we are creating a deck of cards 
+1) first we are creating a deck of cards 
 2) then we are creating deal, which means creating two smaller decks from the main deck 
 3)- then we are saving the deck to the memory of system.
 4)- then we are retreiving a deck from the memory.
